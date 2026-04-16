@@ -5,4 +5,4 @@
 About my
 
 :zap: software developer <br/>
-:bar_chart:Now, comming into data scientist
+:bar_chart: now venturing into data science
